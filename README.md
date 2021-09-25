@@ -7,3 +7,4 @@ Este foi um projeto que fiz para localizar qualquer CEP do Brasil e salva-lo em 
 - Criação da linha de uma tabela;
 - Atualização do banco de dados;
 - Deletando uma linha de uma tabela.
+Possui um arquivo .ui para uma interface digital simples.
